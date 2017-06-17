@@ -6,3 +6,7 @@ Rapid oral microbiome detection prototype submission for Hack HPI 2017 hackathon
 
 - Rasbperry Pi
 - Ultrasonic transducer
+
+## Contributors
+
+Aditya, Jana, Sai, Justin
