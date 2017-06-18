@@ -4,7 +4,7 @@ Rapid oral microbiome detection prototype submission for Hack HPI 2017 hackathon
 
 ## Bacteria up close
 
-![bacteria.jpg](bacteria.jpg)
+![bacteria-mag.jpg](bacteria-mag.jpg)
 
 ## Spectrophotometry
 
@@ -24,4 +24,4 @@ Notification corresponding with system readouts.
 
 ## Contributors
 
-Aditya, Jana, Sai, Justin
+@AdityaKurude, Jana, @SaiKamat, @JustinShenk
