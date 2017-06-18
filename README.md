@@ -1,6 +1,6 @@
 # Bio-Me
 
-Rapid oral microbiome detection prototype submission for Hack HPI 2017 hackathon.
+Rapid oral microbiome detection prototype submission for Hack HPI 2017 Health Tech Hackathon.
 
 ## Bacteria up close
 
